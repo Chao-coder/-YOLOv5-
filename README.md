@@ -1,6 +1,5 @@
-# -YOLOv5-
-这是在基于YOLO v5 开发的一个是否佩戴安全帽的目标检测项目
-
+# YOLOv5-Project
+这是在基于YOLO v5 开发的一系列项目
 
 Environments:
 
