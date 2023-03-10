@@ -1,10 +1,6 @@
 # YOLOv5-Project
 这是在基于YOLO v5 开发的一系列项目
 
-Environments:
+Environments:在colab中的GPU进行了100个epoch训练对欧洲车牌号码进行识别
 
-1:Python 3.9.7
-2:anaconda Command line client (version 1.9.0)
-3:pytorch 
-
-IDE 使用 pycharm
+model:yolov5s.pt
